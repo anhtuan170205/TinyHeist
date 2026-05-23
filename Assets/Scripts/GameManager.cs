@@ -16,7 +16,7 @@ public class GameManager : MonoBehaviour
 
     public void Win()
     {
-        Debug.Log("Congratulations! You've collected all the coins and won the game!");
+        Debug.Log("Congratulations! You've won the game!");
     }
 
     public void Lose()
